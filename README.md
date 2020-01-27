@@ -10,3 +10,6 @@ Given the URL of a playlist, this Python 3 code uses Youtube Data API V3 to get 
 <pre><code>
 python youtube_api.py
 </code></pre>
+<br />
+<b>Output Screenshot:</b><br />
+<img src="https://github.com/tebbythomas/YouTube-Playlist_Duration_Calculator/blob/master/terminal_output.png">
